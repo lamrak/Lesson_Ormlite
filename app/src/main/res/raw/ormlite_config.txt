@@ -1,0 +1,17 @@
+#
+# generated on 2014/03/31 06:57:52
+#
+# --table-start--
+dataClass=com.validcat.sqlibraries.model.Account
+tableName=account
+# --table-fields-start--
+# --field-start--
+fieldName=email
+id=true
+# --field-end--
+# --field-start--
+fieldName=password
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################
